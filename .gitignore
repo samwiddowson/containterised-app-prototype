@@ -1,0 +1,10 @@
+**/node_modules/**
+**/__pycache__/**
+**/.angular/**
+*java/target/**
+*java/.mvn/**
+*java/.settings/**
+*java/.project
+*java/.classpath
+**/*.tfstate
+**/*.tfstate.backup
